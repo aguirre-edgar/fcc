@@ -11,6 +11,7 @@ function compareEquality(inputOne, InputTwo) {
 //   Comparision Operators 
 //   !=    not equal to 
 //   !==   strickly not equal to / not exactly the same
+//&   ||
 
 // https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparisons-with-the-logical-or-operator
 
