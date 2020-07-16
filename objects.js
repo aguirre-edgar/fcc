@@ -8,5 +8,8 @@ var testObj = {
   // Only change code below this line
   
   var playerNumber = 16 ;       // 
+  console.log(playerNumber);
+
   var player = testObj[playerNumber];   // 
-  
+   console.log(player);
+   
